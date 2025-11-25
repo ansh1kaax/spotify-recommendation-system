@@ -1,7 +1,5 @@
 # spotify-recommendation-system
 
-# Spotify-Style User Recommendation System
-
 This is my simple, self-made music recommendation project.  
 I wanted to understand how Spotify-like systems work, so I picked up a dataset from kaggle and created few columns on my own as per requirement, cleaned everything myself, uploaded it to MySQL, and started building insights and most importantly understanding how data works and how to make conclusions based on the dataset.
 
@@ -27,9 +25,9 @@ Everything done manually so I truly understand what’s happening.
 ## What This Project Contains
 - A fully cleaned listening history dataset
 - CSV file (kaggle dataset, but modified and added new columns as per requirements)
-- A MySQL table with 1.4L+ rows  
+- A MySQL table with 88,000+ rows  
 - A data dictionary (explains every column)  
-- SQL scripts  
+- SQL scripts 
 - (Soon) Power BI dashboards for user behaviour  
 - (Soon) Python notebook for simple recommendations  
 
