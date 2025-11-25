@@ -60,4 +60,8 @@ This project is my way of learning the full workflow instead of moving onto ML d
 
 ---
 
-## Folder Structure
+---
+
+## Thanks for reading.  
+I’m building this project slowly, step-by-step, and learning everything properly on the way.
+
